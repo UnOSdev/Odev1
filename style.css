@@ -1,0 +1,42 @@
+html{
+     padding: 0px;
+}
+body{
+    padding: 100px 150px;
+}
+.main-header{
+    color:#511f50;
+    font-size: 45px;
+    max-width: 450px;
+    line-height: 55px;
+}
+.main-text{
+    color: grey;
+    max-width: 480px;
+}
+.main-label{
+        background-color: #f7f2f8;
+        border-radius: 15px;
+        padding: 20px;
+        max-width: 500px;
+        margin-left: 70px !important;
+}
+.ml-6{
+    margin-left: 210px !important;
+}
+.ml-5{
+    margin-left: 140px !important;
+}
+.box-main{
+    background-color: #511f50;
+    border-radius: 7px;
+    padding: 40px 25px;
+    max-width: 400px;
+    max-height: 250px;
+}
+.box-photo{
+    width: 32px;
+    height: 32px;
+    border-radius: 50px;
+    margin-top: 5px;
+}
