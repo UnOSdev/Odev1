@@ -1,1 +1,1 @@
-# Odev1
+# Bootstrap ile yazilmis.
